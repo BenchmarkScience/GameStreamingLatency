@@ -1,6 +1,6 @@
 This may be a way around 4K Capture card Latencies!
 
-Source -> Splitter -> Display Out
+Source -> Splitter -> Display Out  
                   |-> Capture In
 
 # sch: hdmi splitter latency
