@@ -7,5 +7,8 @@ Source -> Splitter -> Display Out
 # sch: hdmi splitter latency
 https://www.google.com/search?q=hdmi+splitter+latency
 
-# Relation:
+# Relation: benchmark
 [We can FINALLY Test This!!](https://youtu.be/ZX7HnNd5PB4)
+
+# Discuss:
+https://obsproject.com/forum/threads/is-there-an-hdmi-splitter-that-has-zero-lag.25297/
